@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a skilled MERN stack developer with a degree in Software Engineering from Gift University. Currently, I am working at AK Solutions as a MERN stack developer, where I specialize in building dynamic web applications. In addition to my professional experience, I have successfully completed freelance projects in both MERN stack and React Native development. Passionate about crafting efficient and scalable solutions, I am always eager to take on new challenges and grow as a developer.
+I am a skilled MERN stack developer with a degree in Software Engineering from Gift University. Currently, I am working at FabTechSol as a MERN stack developer, where I specialize in building dynamic web applications. In addition to my professional experience, I have successfully completed freelance projects in both MERN stack and React Native development. Passionate about crafting efficient and scalable solutions, I am always eager to take on new challenges and grow as a developer.
 
 
 ## 🌐 Socials:
